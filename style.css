@@ -1,0 +1,85 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1f66a5;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        section {
+            max-width: 2000px;
+            margin: 20px auto;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+            align-items: start;
+        }
+
+        .contact-info {
+            list-style-type: none;
+            padding: 0;
+            margin-bottom: 20px;
+        }
+
+        .contact-info li {
+            margin-bottom: 10px;
+        }
+
+        .qualification-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        .qualification-table, th, td {
+            border: 1px solid #ddd;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #333;
+            color: white;
+        }
+
+        .extra-qualification {
+            margin-top: 20px;
+        }
+
+        .extra-qualification li {
+            margin-bottom: 10px;
+        }
+
+        .hobbies {
+            margin-top: 20px;
+        }
+
+        .hobbies li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            text-align:left;
+            padding: 0px;
+            background-color: #fffafa;
+            color: rgb(18, 17, 17);
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        
